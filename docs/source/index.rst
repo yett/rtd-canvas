@@ -14,6 +14,7 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   We are trying to understand how read the doc works.
 
 Contents
 --------
